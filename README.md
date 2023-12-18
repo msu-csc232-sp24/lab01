@@ -1,6 +1,6 @@
-# LHWn - Title
+# LAB01 - Array Fundamentals
 
-_A quick blurb or sub-title text_
+The Abstract Data Types (ADTs) we develop in this course maintain a collection of data. This data encapsulated by the ADTs is often stored in an array. This lab provides a review of this primitive data structure available in the C++ programming language.
 
 ## Background
 
